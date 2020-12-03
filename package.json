@@ -1,0 +1,23 @@
+{
+  "name": "canvaswarp",
+  "version": "1.0.0",
+  "description": "这是对canvas接口的一个语意化的封装，零依赖、支持相对定位",
+  "typings": "src/types.tsx",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel example/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1615450788/CanvasWarp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1615450788/CanvasWarp/issues"
+  },
+  "homepage": "https://github.com/1615450788/CanvasWarp#readme",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
+}
